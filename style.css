@@ -1,0 +1,36 @@
+.devil {
+    color: #FFC610;
+    font-size: 80px;
+    text-align: center;
+    background-color: black;
+}
+
+img {
+    width: 1400px;
+    height: 600px;
+}
+
+.titulos {
+    color: #FFC610;
+    text-align: center;
+
+}
+
+.titulines {
+    color: #FFC610;
+    background-color: black;
+    text-align: center;
+}
+
+
+
+.boton {
+    columns: black;
+    background-color: #FFC610;
+    
+}
+
+div {
+    color: #FFC610;
+}
+
